@@ -60,7 +60,7 @@ TABLE OF CONTENTS
     * 5. Self hosted video background
     */
     $.launch_date = [7, 9, 2016]; 										//-- launch date [d,m,yyyy], for example 7 September 2016 : [7,9,2016]
-    $.bg_urls = ["img/background/sample5.jpg", "img/background/sample6.jpg"];
+    $.bg_urls = ["https://media.lvxiang.site/img/sample6.jpg", "https://media.lvxiang.site/img/sample5.jpg"];
     $.youtube_url = ""; 												//-- just the last words after https://www.youtube.com/watch?v=
     $.self_host_video_path = ""; 									//-- self hosted video path
     $.self_host_video_filename = ""; 								//-- self hosted video filename "WITHOUT .MP4 EXTENSION"

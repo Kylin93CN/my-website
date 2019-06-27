@@ -1735,7 +1735,7 @@ section .half-overlay.is-visible{
 	top:100%;
 }
 .about-section .bg-container-static{
-	background:url(../img/background/sample2.jpg) no-repeat;
+	background:url() no-repeat;
 	background-size:cover;
 	background-position:50% 50%;
 }
@@ -1859,7 +1859,7 @@ section .half-overlay.is-visible{
 }
 
 .works-section .bg-container-static{
-	background:url(../img/background/sample3.jpg) no-repeat;
+	background:url() no-repeat;
 	background-size:cover;
 	background-position:50% 50%;
 }
@@ -2043,7 +2043,7 @@ section .half-overlay.is-visible{
 	left:100%;
 }
 .contact-section .bg-container-static{
-	background:url(../img/background/sample4.jpg) no-repeat;
+	background:url() no-repeat;
 	background-size:cover;
 	background-position:50% 50%;
 }
